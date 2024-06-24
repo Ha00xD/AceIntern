@@ -1,0 +1,15 @@
+* To See List the Contents of the Directory;
+! Use ls 
+* To Create a new Directory
+! Use touch
+* Change into the New Directory
+! Use cd 
+* To See List the Contents of the Directory hidden file 
+! Use ls -la
+* Display the Current Directory Path
+! Use pwd
+* Concatenate and Display the Content of example.txt
+! cat 
+* Copy
+! cp
+
